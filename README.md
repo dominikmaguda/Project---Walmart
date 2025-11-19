@@ -1,9 +1,9 @@
 An end-to-end data analysis project focused on processing, cleaning, and performing comprehensive analysis of Walmart's sales data. This project demonstrates a complete data workflow—from raw data to actionable business insights—showcasing essential Data Analyst skills.
 
 
-* Data Analysis & Processing:	Python, SQL
-* Version Control & Collaboration:	Git, GitHub
-* Development Environment:	Jupyter Notebook, PostgreSQL
++ Data Analysis & Processing:	Python, SQL
++ Version Control & Collaboration:	Git, GitHub
++ Development Environment:	Jupyter Notebook, PostgreSQL
 
  Key Project Steps
 1. Data Preparation & Cleaning (Python - Pandas)
